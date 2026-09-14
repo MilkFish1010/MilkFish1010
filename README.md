@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/ebe7e130-2c47-4f1d-b4b7-a6b188505b40" align ="center"/>
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/ebe7e130-2c47-4f1d-b4b7-a6b188505b40" style="display: block; margin: 0 auto;"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
